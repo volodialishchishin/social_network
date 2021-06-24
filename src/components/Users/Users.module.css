@@ -1,0 +1,48 @@
+.user {
+    margin: 15px auto;
+    width: 600px;
+    display: flex;
+}
+
+.image {
+    margin-right: 10px;
+}
+
+.image img {
+    margin-left: 5px;
+    width: 60px;
+}
+
+.image button {
+    width: 70px;
+}
+
+.main {
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    width: 800px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.titleUsers {
+    padding: 15px;
+    font-size: 25px;
+}
+
+.selectedPage{
+    font-weight: bold;
+    margin: 5px;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: lightblue;
+}
+
+.numberPage{
+    margin: 5px;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding: 5px;
+}

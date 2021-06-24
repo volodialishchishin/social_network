@@ -1,0 +1,16 @@
+.description_block{
+    padding: 10px;
+    display: flex;
+}
+
+.description_block img{
+    border-radius: 50%;
+    height: 45vh;
+    margin-right: 120px;
+}
+
+.image_block img{
+    width: 100%;
+    border-radius: 10px;
+}
+
